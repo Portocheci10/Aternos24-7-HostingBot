@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "MaceSMP01.aternos.me:59197",
+    "port": 59197,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
